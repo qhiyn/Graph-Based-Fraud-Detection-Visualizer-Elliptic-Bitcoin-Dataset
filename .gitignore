@@ -58,5 +58,10 @@ npm-debug.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# Project-local agent/session files
+.kiro/
+AGENTS.md
+CLAUDE.md
+
 # NOTE: public/data/*.json is intentionally NOT ignored.
 # Exported JSON files must be committed so Vercel can serve them.
