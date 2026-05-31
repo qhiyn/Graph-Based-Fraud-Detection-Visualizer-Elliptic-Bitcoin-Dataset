@@ -10,11 +10,13 @@ The project demonstrates an end-to-end machine-learning product: graph data prep
 
 ## Live Demo
 
-Live demo: Deployment pending. Import this repository into Vercel or run `vercel` after CLI auth, then replace this line with the deployed URL.
+Live demo: https://graph-based-fraud-detection-visuali.vercel.app/
 
 ## Screenshots
 
-> Screenshot pending: add `docs/assets/dashboard.png` after deployment and update this README to embed it.
+Store your dashboard screenshot at `docs/assets/dashboard.png`.
+
+![Dashboard screenshot](docs/assets/dashboard.png)
 
 ## Key Features
 
