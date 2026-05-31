@@ -10,11 +10,11 @@ The project demonstrates an end-to-end machine-learning product: graph data prep
 
 ## Live Demo
 
-Live demo: **Coming soon** (Vercel).
+Live demo: Deployment pending. Import this repository into Vercel or run `vercel` after CLI auth, then replace this line with the deployed URL.
 
 ## Screenshots
 
-> Screenshot: add a dashboard screenshot after deployment (e.g. `docs/assets/dashboard.png`).
+> Screenshot pending: add `docs/assets/dashboard.png` after deployment and update this README to embed it.
 
 ## Key Features
 
