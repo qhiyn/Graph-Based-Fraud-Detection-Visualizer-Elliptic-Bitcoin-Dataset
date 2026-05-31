@@ -1,0 +1,62 @@
+# Next.js
+.next/
+out/
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# ML raw data — never commit large dataset files
+ml/data/raw/
+ml/outputs/
+ml/checkpoints/
+
+# ML model artifacts
+*.pt
+*.pth
+*.pkl
+*.ckpt
+
+# Large data files
+*.csv
+*.parquet
+*.h5
+*.hdf5
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# NOTE: public/data/*.json is intentionally NOT ignored.
+# Exported JSON files must be committed so Vercel can serve them.

@@ -1,0 +1,26 @@
+Expected ZIP contents:
+
+kiro-steering-elliptic-detailed/
+├── .kiro/
+│   └── steering/
+│       ├── api-frontend.md
+│       ├── critical-rules.md
+│       ├── implementation-prompts.md
+│       ├── ml-data.md
+│       ├── mvp-roadmap.md
+│       ├── product.md
+│       ├── references.md
+│       ├── structure.md
+│       └── tech.md
+├── visible-steering-copy/
+│   ├── api-frontend.md
+│   ├── critical-rules.md
+│   ├── implementation-prompts.md
+│   ├── ml-data.md
+│   ├── mvp-roadmap.md
+│   ├── product.md
+│   ├── references.md
+│   ├── structure.md
+│   └── tech.md
+├── README.md
+└── TREE.txt

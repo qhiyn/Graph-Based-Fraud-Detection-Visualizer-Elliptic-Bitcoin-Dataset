@@ -1,0 +1,11 @@
+# Phase 3 — offline preprocessing only.
+# Phase 4 adds classical-ML baseline (joblib for model persistence).
+# Phase 5 adds the GraphSAGE GNN (CPU-first; no CUDA-specific packages).
+pandas
+numpy
+scikit-learn
+networkx
+tqdm
+joblib
+torch
+torch_geometric
